@@ -1,4 +1,4 @@
-# Portif-lio
+# Portfólio
 
 Portifólio do desenvolvedor
 iniciado...
