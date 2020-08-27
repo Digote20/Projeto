@@ -159,6 +159,7 @@ header {
 
 .banner button:hover {
     opacity: 0.8;
+    color: black;
 }
 
 @keyframes moveBanner {
